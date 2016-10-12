@@ -1,0 +1,23 @@
+{
+  "name": "(hpdemo)",
+  "version": "1.0.0",
+  "description": "My very first package",
+  "main": "(index.js)",
+  "dependencies": {
+    "npm": "^2.15.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/user/hpdemo.git)"
+  },
+  "author": "Himani Lotia <himani.lotia@gmail.com>",
+  "license": "(MIT)",
+  "keywords": [
+    "My",
+    "f"
+  ]
+}
